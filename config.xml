@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+<database>
+<db_username>ereader</db_username>
+<db_password>testmybooks</db_password>
+<db_host>127.0.0.1</db_host>
+<db_name>ereader</db_name>
+<db_charset></db_charset>
+<db_port></db_port>
+</database>
+
+<mail>
+<mail_username>username</mail_username>
+<mail_password>password</mail_password>
+<mail_host>mail.example.com</mail_host>
+</mail>
+
+<blog>
+<blog_title>My Blog</blog_title>
+<blog_moderate>1</blog_moderate>
+<blog_images>1</blog_images>
+</blog>
+</application>
