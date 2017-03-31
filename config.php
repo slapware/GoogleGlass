@@ -18,10 +18,10 @@
 
 // TODO: You must configure these fields for the starter project to function.
 // Visit https://developers.google.com/glass/getting-started to learn more
-$api_client_id = "248458663944.apps.googleusercontent.com";
+$api_client_id = "????????????.apps.googleusercontent.com";
 //$api_client_id = "248458663944@developer.gserviceaccount.com";
-$api_client_secret = "0IV7Aqxe3LMGgJZLFpdUaFvQ";
-$api_simple_key = "AIzaSyBHgZoqFIGkzzGRo4ptOvn_pl4aycCoRFE";
+$api_client_secret = "?????????????????FpdUaFvQ";
+$api_simple_key = "??????????IGkzzGRo4ptOvn_pl4aycCoRFE";
 
 $base_url = "https://diner.harpercollins.com/events";
 
